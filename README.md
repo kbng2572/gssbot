@@ -32,7 +32,7 @@
 **Install from source** (latest features, recommended for development)
 
 ```bash
-git clone https://github.com/HKUDS/gssbot.git
+git clone https://github.com/kbng2572/gssbot.git
 cd gssbot
 pip install -e .
 ```
